@@ -37,6 +37,7 @@ public class 무료행사 {
             set.add(price);
 
         }
+
         System.out.println(count);
 
 
