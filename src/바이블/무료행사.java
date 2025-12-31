@@ -26,6 +26,7 @@ public class 무료행사 {
             prices[i] = Integer.parseInt(st.nextToken());
         }
 
+        // 풀이
         Set<Integer> set = new HashSet<>();
         int count = 0;
         for (int price : prices) {
